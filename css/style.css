@@ -1,0 +1,28 @@
+.header{
+    border: 3px solid #000;
+    width: 100%;
+    height: 200px;
+}
+.flex{
+    display: flex;
+}
+.section-left{
+    border: 3px solid #000;
+    width: 200px;
+    height: 900px;
+}
+.main{
+    border: 3px solid #000;
+   width: 100%;
+    height: 900px;
+}
+.section-right{
+    border: 3px solid #000;
+    width: 200px;
+    height: 900px;
+}
+.footer{
+    border: 3px solid #000;
+    width: 100%;
+    height: 200px;
+}
